@@ -1,0 +1,177 @@
+[
+  {
+    "categoria": "Laja Ayacuchana",
+    "filtro": "ayacuchana",
+    "nombre": "Piedra irregular",
+    "descripcion": "Piezas naturales para revestimiento de muros",
+    "imagen": "assets/foto-01.webp"
+  },
+  {
+    "categoria": "Laja Ayacuchana",
+    "filtro": "ayacuchana",
+    "nombre": "Mosaico decorativo",
+    "descripcion": "Combinación de cortes y relieves",
+    "imagen": "assets/foto-02.webp"
+  },
+  {
+    "categoria": "Laja Ayacuchana",
+    "filtro": "ayacuchana",
+    "nombre": "Planchas irregulares",
+    "descripcion": "Piedra natural en stock",
+    "imagen": "assets/foto-03.webp"
+  },
+  {
+    "categoria": "Laja Ayacuchana",
+    "filtro": "ayacuchana",
+    "nombre": "Piezas cortadas",
+    "descripcion": "Presentación de piedra en piezas pequeñas",
+    "imagen": "assets/foto-04.webp"
+  },
+  {
+    "categoria": "Laja Ayacuchana",
+    "filtro": "ayacuchana",
+    "nombre": "Fachada revestida",
+    "descripcion": "Aplicación real en pared exterior",
+    "imagen": "assets/foto-05.webp"
+  },
+  {
+    "categoria": "Laja Ayacuchana",
+    "filtro": "ayacuchana",
+    "nombre": "Tiras rectangulares",
+    "descripcion": "Formato lineal para revestimiento",
+    "imagen": "assets/foto-06.webp"
+  },
+  {
+    "categoria": "Laja Talamolle",
+    "filtro": "talamolle",
+    "nombre": "Planchas grandes",
+    "descripcion": "Piedra irregular en stock",
+    "imagen": "assets/foto-07.webp"
+  },
+  {
+    "categoria": "Laja Talamolle",
+    "filtro": "talamolle",
+    "nombre": "Selección de planchas",
+    "descripcion": "Piezas de diferentes dimensiones",
+    "imagen": "assets/foto-08.webp"
+  },
+  {
+    "categoria": "Formatos de laja",
+    "filtro": "formatos",
+    "nombre": "Piedra en planchas",
+    "descripcion": "Formato cortado y apilado",
+    "imagen": "assets/foto-09.webp"
+  },
+  {
+    "categoria": "Formatos de laja",
+    "filtro": "formatos",
+    "nombre": "Carga de material",
+    "descripcion": "Preparación de planchas",
+    "imagen": "assets/foto-10.webp"
+  },
+  {
+    "categoria": "Formatos de laja",
+    "filtro": "formatos",
+    "nombre": "Stock de laja",
+    "descripcion": "Piedra cortada en almacén",
+    "imagen": "assets/foto-11.webp"
+  },
+  {
+    "categoria": "Formatos de laja",
+    "filtro": "formatos",
+    "nombre": "Corte rectangular",
+    "descripcion": "Disposición lineal de piezas",
+    "imagen": "assets/foto-12.webp"
+  },
+  {
+    "categoria": "Formatos de laja",
+    "filtro": "formatos",
+    "nombre": "Mosaico irregular",
+    "descripcion": "Ejemplo de patrón para piso",
+    "imagen": "assets/foto-13.webp"
+  },
+  {
+    "categoria": "Formatos de laja",
+    "filtro": "formatos",
+    "nombre": "Muro de piedra",
+    "descripcion": "Ejemplo de revestimiento exterior",
+    "imagen": "assets/foto-14.webp"
+  },
+  {
+    "categoria": "Formatos de laja",
+    "filtro": "formatos",
+    "nombre": "Fachada rectangular",
+    "descripcion": "Revestimiento instalado",
+    "imagen": "assets/foto-15.webp"
+  },
+  {
+    "categoria": "Formatos de laja",
+    "filtro": "formatos",
+    "nombre": "Corte cuadrado",
+    "descripcion": "Piezas seleccionadas en stock",
+    "imagen": "assets/foto-16.webp"
+  },
+  {
+    "categoria": "Formatos de laja",
+    "filtro": "formatos",
+    "nombre": "Planchas cuadradas",
+    "descripcion": "Cortes apilados",
+    "imagen": "assets/foto-17.webp"
+  },
+  {
+    "categoria": "Formatos de laja",
+    "filtro": "formatos",
+    "nombre": "Tiras rústicas",
+    "descripcion": "Piezas con textura natural",
+    "imagen": "assets/foto-18.webp"
+  },
+  {
+    "categoria": "Formatos de laja",
+    "filtro": "formatos",
+    "nombre": "Muro en tiras",
+    "descripcion": "Aplicación exterior de piedra",
+    "imagen": "assets/foto-19.webp"
+  },
+  {
+    "categoria": "Formatos de laja",
+    "filtro": "formatos",
+    "nombre": "Muestrario de acabados",
+    "descripcion": "Diferentes patrones y materiales",
+    "imagen": "assets/foto-20.webp"
+  },
+  {
+    "categoria": "Rococho",
+    "filtro": "rococho",
+    "nombre": "Pared de rococho",
+    "descripcion": "Revestimiento instalado en interior",
+    "imagen": "assets/foto-21.webp"
+  },
+  {
+    "categoria": "Rococho",
+    "filtro": "rococho",
+    "nombre": "Rococho en stock",
+    "descripcion": "Piezas listas para comercialización",
+    "imagen": "assets/foto-22.webp"
+  },
+  {
+    "categoria": "Rococho",
+    "filtro": "rococho",
+    "nombre": "Textura de rococho",
+    "descripcion": "Detalle de color y acabado",
+    "imagen": "assets/foto-23.webp"
+  },
+  {
+    "categoria": "Rococho",
+    "filtro": "rococho",
+    "nombre": "Zona de parrilla",
+    "descripcion": "Aplicación decorativa con rococho",
+    "imagen": "assets/foto-24.webp"
+  },
+  {
+    "categoria": "Rococho",
+    "filtro": "rococho",
+    "nombre": "Cocina revestida",
+    "descripcion": "Ejemplo de acabado con rococho",
+    "imagen": "assets/foto-25.webp"
+  }
+]
